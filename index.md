@@ -282,7 +282,8 @@ for more information.
 <p id="etherpad">
   <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
   <br/>
-  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.<br>
+  Saved copy of the collaborative notes taken during the <a href="./2020-03-23-ttt-online-GMT.html">first</a>, and <a href="./2020-03-24-ttt-online-GMT.html">second</a> day of the workshop.
 </p>
 
 {% endif %}
